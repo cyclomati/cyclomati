@@ -3,7 +3,7 @@
 # Hi, I'm Anmol Sharma 👋
 
 <a href="https://github.com/cyclomati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=CSE+%40+IIIT+Hyderabad;Open-source+contributor+%E2%80%94+JabRef;Systems+%E2%80%A2+ML+%E2%80%A2+Things+people+actually+use" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&duration=3500&width=520&lines=CSE+%40+IIIT+Hyderabad;Open-source+contributor+%E2%80%94+JabRef;Systems+%E2%80%A2+ML+%E2%80%A2+Things+people+actually+use" alt="Typing intro" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=cyclomati&style=flat-square&color=blue" alt="Profile views" />
@@ -46,19 +46,20 @@ Contributing to **[JabRef](https://github.com/JabRef/jabref)** — the open-sour
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cyclomati&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=cyclomati&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclomati&layout=compact&hide_border=true&theme=tokyonight&hide=html,jupyter%20notebook" alt="Top languages" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </p>
 
-## 🐍 Contribution snake
+## 🏙 Contributions in 3D
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyclomati/cyclomati/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/cyclomati/cyclomati/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</picture>
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
 ---
 
