@@ -3,7 +3,7 @@
 # Hi, I'm Anmol Sharma 👋
 
 <a href="https://github.com/cyclomati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&duration=3500&width=520&lines=CSE+%40+IIIT+Hyderabad;Open-source+contributor+%E2%80%94+pymobiledevice3+%C2%B7+es-toolkit;Systems+%E2%80%A2+ML+%E2%80%A2+Things+people+actually+use" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&duration=3500&width=520&lines=CSE+%40+IIIT+Hyderabad;Open-source+contributor+%E2%80%94+Daedalus+%C2%B7+pymobiledevice3+%C2%B7+JabRef;Systems+%E2%80%A2+ML+%E2%80%A2+Things+people+actually+use" alt="Typing intro" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=cyclomati&style=flat-square&color=blue" alt="Profile views" />
@@ -13,26 +13,32 @@
 ## 🏆 Open-source contributions
 
 <p>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Acyclomati+is%3Amerged"><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Merged PRs: 3" /></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Acyclomati+is%3Aopen"><img src="https://img.shields.io/badge/in%20review-4-1f6feb?style=flat-square&logo=github&logoColor=white" alt="In review: 4" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Acyclomati+is%3Amerged"><img src="https://img.shields.io/badge/merged%20PRs-8-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Merged PRs: 8" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Acyclomati+is%3Aopen"><img src="https://img.shields.io/badge/in%20review-3-1f6feb?style=flat-square&logo=github&logoColor=white" alt="In review: 3" /></a>
+  <a href="https://github.com/input-output-hk/daedalus/pulls?q=is%3Apr+author%3Acyclomati+is%3Amerged"><img src="https://img.shields.io/badge/daedalus-2%20merged-2ea44f?style=flat-square" alt="Daedalus: 2 merged" /></a>
   <a href="https://github.com/doronz88/pymobiledevice3/pulls?q=is%3Apr+author%3Acyclomati+is%3Amerged"><img src="https://img.shields.io/badge/pymobiledevice3-2%20merged-2ea44f?style=flat-square" alt="pymobiledevice3: 2 merged" /></a>
-  <a href="https://github.com/toss/es-toolkit/pull/2073"><img src="https://img.shields.io/badge/es--toolkit-merged-2ea44f?style=flat-square" alt="es-toolkit: merged" /></a>
+  <a href="https://github.com/Rel1cx/eslint-react/pull/1945"><img src="https://img.shields.io/badge/eslint--react-merged-2ea44f?style=flat-square" alt="eslint-react: merged" /></a>
+  <a href="https://github.com/JabRef/jabref/pull/16747"><img src="https://img.shields.io/badge/JabRef-merged-2ea44f?style=flat-square" alt="JabRef: merged" /></a>
 </p>
 
 **Merged**
 
 | Project | PR | What it does |
 |---|---|---|
+| [Daedalus](https://github.com/input-output-hk/daedalus) — Cardano full-node wallet | [#3397](https://github.com/input-output-hk/daedalus/pull/3397) | The DRep status badge now carries its own `font-family`, so the shared component stops falling through to the root sentinel font on containers that set none |
+| [Daedalus](https://github.com/input-output-hk/daedalus) | [#3396](https://github.com/input-output-hk/daedalus/pull/3396) | Gave the selected DRep name an explicit theme token color — it was rendering near-black on the dark voting-power delegation panel |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) — advanced to-do list & time tracker | [#9820](https://github.com/super-productivity/super-productivity/pull/9820) | A temporary accent highlight on a task after jumping to it from search, scoped to search navigation only — and revived the mobile highlight, dead since its styles were dropped |
+| [eslint-react](https://github.com/Rel1cx/eslint-react) — React linting for ESLint | [#1945](https://github.com/Rel1cx/eslint-react/pull/1945) | Fixed a `set-state-in-effect` false positive: render-phase `setState` was being attributed to any effect that called a function received via props |
+| [JabRef](https://github.com/JabRef/jabref) — open-source reference manager | [#16747](https://github.com/JabRef/jabref/pull/16747) | macOS-specific default key bindings, so `⌥F`/`⌥S` no longer fire an action *and* insert `ƒ`/`ß` into the text field |
 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) — pure-Python iOS device toolkit | [#1893](https://github.com/doronz88/pymobiledevice3/pull/1893) | Added a `/connect` WebSocket endpoint to `tunneld` that bridges clients into device tunnels over the HTTP API, so tools on another host or network stack can reach tunnel services |
 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | [#1891](https://github.com/doronz88/pymobiledevice3/pull/1891) | XDG Base Directory support on Linux — backward-compatible with existing installs, with sudo-safe ownership of created directories |
 | [es-toolkit](https://github.com/toss/es-toolkit) — modern JavaScript utility library | [#2073](https://github.com/toss/es-toolkit/pull/2073) | Refreshed the published performance benchmarks for es-toolkit 1.52.0 |
 
 **In review**
 
-- [eslint-react #1945](https://github.com/Rel1cx/eslint-react/pull/1945) — fixes a `set-state-in-effect` false positive when an effect calls a function received via props
-- [ComfyUI_frontend #16303](https://github.com/Comfy-Org/ComfyUI_frontend/pull/16303) — "Go to Node by ID" canvas navigation command
+- [Mocha #6256](https://github.com/mochajs/mocha/pull/6256) — opt-in `escapeSpecialCharacters` option so markdown-special characters in test titles stop breaking the markdown reporter
 - [Sphinx #14661](https://github.com/sphinx-doc/sphinx/pull/14661) — `singlehtml_embed_assets` option for fully self-contained single-file HTML output
-- [Super Productivity #9820](https://github.com/super-productivity/super-productivity/pull/9820) — clear visual highlight on a task after jumping to it from search
+- [ComfyUI_frontend #16303](https://github.com/Comfy-Org/ComfyUI_frontend/pull/16303) — "Go to Node by ID" canvas navigation command
 
 ## 🛠 Things I've built
 
